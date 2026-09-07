@@ -46,5 +46,5 @@ The model is evaluated using:
 
 ## Project Files
 
-- `Car Price Prediction.ipynb` — Jupyter Notebook containing the complete project
+- `Car price prediction.ipynb` — Jupyter Notebook containing the complete project
 - `car data.csv` — Dataset
